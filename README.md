@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Ewerton Martins Lopes
 
-<!--
-**ewertonmartinslopes/ewertonmartinslopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas** pelo **SENAI** e apaixonado por tecnologia, programação e resolução de problemas.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo projetos para fortalecer meus conhecimentos em **Python**, **HTML**, **CSS**, **Bootstrap** e lógica de programação, documentando toda a minha evolução por meio de repositórios no GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além da área de desenvolvimento de software, possuo experiência profissional em **supervisão técnica**, **manutenção de máquinas industriais** e **manutenção de máquinas de café espresso**, unindo experiência prática com a busca constante por novos conhecimentos em tecnologia.
+
+## 🚀 Objetivo
+
+Estou em busca da minha **primeira oportunidade na área de Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, aprender continuamente e contribuir com soluções de qualidade.
+
+## 💻 Tecnologias e Ferramentas
+
+* 🐍 Python
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ Bootstrap
+* 🖥️ Visual Studio Code
+* 📓 Google Colab
+* 🌱 Git e GitHub
+
+## 📚 Atualmente estudando
+
+* Lógica de Programação
+* Estruturas Condicionais
+* Estruturas de Repetição
+* Manipulação de Strings
+* Desenvolvimento Web
+* Desenvolvimento Full Stack
+
+## 📂 Projetos em Destaque
+
+* 🐍 Exercícios de Python
+* 🌐 Projetos em HTML e CSS
+* ☕ Sistema para Assistência Técnica de Máquinas de Café
+* 🩺 Projeto de Aplicativo para Controle de Diabetes Tipo 1
+* 💰 Projeto de Assistente Financeiro
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é evoluir constantemente como desenvolvedor, construir soluções úteis e criar projetos que gerem impacto positivo para pessoas e empresas.
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
