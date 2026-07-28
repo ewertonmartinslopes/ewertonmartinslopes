@@ -19,7 +19,7 @@ Estou em busca da minha **primeira oportunidade na área de Desenvolvimento de S
 * 🖥️ Visual Studio Code
 * 📓 Google Colab
 * 🌱 Git e GitHub
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="adeacadd-bd15-4951-99ab-6e7babde82a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ## 📚 Atualmente estudando
 
 * Lógica de Programação
