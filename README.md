@@ -19,6 +19,7 @@ Estou em busca da minha **primeira oportunidade na área de Desenvolvimento de S
 * 🖥️ Visual Studio Code
 * 📓 Google Colab
 * 🌱 Git e GitHub
+<img width="100" height="100" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/89d94130-f7dd-4674-969c-eaea51a51b53" />
 
 ## 📚 Atualmente estudando
 
